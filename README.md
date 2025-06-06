@@ -26,6 +26,7 @@ Due to area clustering scheme, this sectorfile only provide data for following p
 - WADD Ngurah Rai
 - WADL Lombok Praya
 - WATT El Tari
+
 Radar Display Optimized to 1366 x 768 pixel screen resolution.
 
 For any procedural discrepancies, please refer to IVAO Indonesia Divisional procedure found here : https://id.ivao.aero/page/division-procedures
